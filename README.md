@@ -34,7 +34,7 @@ Créer une API qui convertit une somme d'argent d'une devise à une autre en uti
 ### 1. Cloner le dépôt
 
 ```bash
-git clone [https://github.com/ngaland/currency_converter.git]
+git clone [https://github.com/danielbilongo/currency_converter.git]
 cd currency_converter
 ```
 ### 2. Démarrer l'application
